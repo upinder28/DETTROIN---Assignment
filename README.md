@@ -4,10 +4,10 @@
 
 | Field | Details |
 |-------|---------|
-| **Full Name** | Sezal |
-| **Intern ID** | *(your intern ID)* |
-| **Email Address** | *(your email)* |
-| **GitHub Username** | *(your GitHub username)* |
+| **Full Name** | Upinder Kaur |
+| **Intern ID** | N/A |
+| **Email Address** | kaurupinder8@gmail.com |
+| **GitHub Username** | upinder28 |
 | **Selected Website** | https://www.thekalyanischool.com/ |
 | **Live Demo Link** | *(add after deployment)* |
 
