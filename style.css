@@ -477,4 +477,7 @@ p { line-height: 1.7; color: var(--text-light); }
   .gallery-grid { grid-template-columns: 1fr; }
   .g-wide { grid-column: span 1; }
   .contact-form { padding: 24px; }
+  .stat strong { font-size: 1.6rem; }
+  .section-header h2 { font-size: 1.6rem; }
+  .ticker span { font-size: 0.8rem; }
 }
