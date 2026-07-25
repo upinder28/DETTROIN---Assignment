@@ -1,4 +1,4 @@
-# The Kalyan School – Website Redesign
+# Vasant Valley School – Website Redesign
 
 ## Submission Details
 
@@ -8,8 +8,8 @@
 | **Intern ID** | N/A |
 | **Email Address** | kaurupinder8@gmail.com |
 | **GitHub Username** | upinder28 |
-| **Selected Website** | https://www.thekalyanischool.com/ |
-| **Live Demo Link** | *(add after deployment)* |
+| **Selected Website** | https://www.vasantvalley.org/ |
+| **Live Demo Link** | https://dettroin-int-upinder-website.vercel.app/ |
 
 ---
 
